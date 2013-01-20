@@ -1,4 +1,4 @@
-gazes
+Gazes
 =====
 
-Gazes on your system
+A command line tool to invertigate performance issue on your operating system.
